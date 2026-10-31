@@ -84,7 +84,7 @@ Portmaster হলো একটি ওপেন-সোর্স কার্ন�
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 ### 1. Safing Portmaster Setup & Usage Guide
 Portmaster is an open-source, kernel-level application firewall that inspects inbound and outbound network traffic.
