@@ -1,5 +1,23 @@
 # 🛡️ Complete PC & Crypto Security Hardening Guide
 
+<p align="center">
+  <a href="https://github.com/BidyutRoy2/pc-crypto-security-guide/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" />
+  </a>
+  <a href="https://github.com/BidyutRoy2/pc-crypto-security-guide/stargazers">
+    <img src="https://img.shields.io/github/stars/BidyutRoy2/pc-crypto-security-guide?style=flat-square&color=ffd700" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/BidyutRoy2/pc-crypto-security-guide/network/members">
+    <img src="https://img.shields.io/github/forks/BidyutRoy2/pc-crypto-security-guide?style=flat-square&color=blue" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/BidyutRoy2/pc-crypto-security-guide">
+    <img src="https://img.shields.io/badge/Security-Hardened-2ea44f?style=flat-square&logo=shield" alt="Security Hardened" />
+  </a>
+  <a href="https://github.com/BidyutRoy2/pc-crypto-security-guide">
+    <img src="https://img.shields.io/badge/Defense-Portmaster%20%7C%20Malwarebytes%20%7C%20KVRT-8a2be2?style=flat-square" alt="Defense Suite" />
+  </a>
+</p>
+
 <img width="1024" height="572" alt="Complete PC and Crypto Security Hardening Setup" src="https://github.com/user-attachments/assets/bfbb6662-e2d5-4be2-b82e-20e3f86282c1" />
 
 > A step-by-step defense guide against infostealers, remote access trojans (RAT), and unauthorized outgoing wallet connections for crypto traders and airdrop hunters. Available in both **Bangla** and **English**.
