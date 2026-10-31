@@ -1,4 +1,7 @@
 # 🛡️ Complete PC & Crypto Security Hardening Guide
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/bfbb6662-e2d5-4be2-b82e-20e3f86282c1" />
+
 > A step-by-step defense guide against infostealers, remote access trojans (RAT), and unauthorized outgoing wallet connections for crypto traders and airdrop hunters. Available in both **Bangla** and **English**.
 
 ---
